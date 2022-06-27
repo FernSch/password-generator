@@ -32,5 +32,3 @@ def make_pass(length):
     
     return password
 
-
-#print(make_pass(10))
