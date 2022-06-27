@@ -1,6 +1,8 @@
-# password-generator-
-Not sure why there are so many files. Only the number.py file is important 
-One of my first projects
-asks for number of characters and makes a random password off of that
-overall pretty simple
-obvious its an early project because i did not know how to use for loops. 
+# password-generator
+
+based off of (this by durzal1)[https://github.com/durzal1/password-generator-/blob/master/number.py]
+but i made mine in the console. I also decided to add the feature of requiring a number, as most websites require a number in the password.
+
+# how to use
+run ``` make_pass(LENGTH_OF_PASS_HERE) ```
+note that password must be between 7 and 21 characters
