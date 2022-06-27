@@ -1,6 +1,6 @@
 # password-generator
 
-based off of (this by durzal1)[https://github.com/durzal1/password-generator-/blob/master/number.py]
+based off of (this by durzal1) [https://github.com/durzal1/password-generator-/blob/master/number.py]
 but i made mine in the console. I also decided to add the feature of requiring a number, as most websites require a number in the password.
 
 # how to use
